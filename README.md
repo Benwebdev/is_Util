@@ -1,5 +1,11 @@
 # is_Util
 
+npm install @benline/is_Util 
+
+```javascript
+import { isNullOrUndefined, isObject } from '@benline/is_Util';
+```
+
 - isNullOrUndefined
 - isObject
 - sNumber
