@@ -1,9 +1,9 @@
 # is_Util
 
-npm install @benline/is_Util 
+npm install @benline/isUtil 
 
 ```javascript
-import { isNullOrUndefined, isObject } from '@benline/is_Util';
+import { isNullOrUndefined, isObject } from '@benline/isUtil';
 ```
 
 #### **Available is utils to import**
